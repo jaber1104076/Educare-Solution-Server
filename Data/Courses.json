@@ -1,0 +1,104 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Fundamental of C Pogramming",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-GwF6v-KtL0O5FLatYeCnEekhkH9NmxkcQ&usqp=CAU",
+        "details": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Fundamental of C++",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://www.educative.io/v2api/editorpage/4872441600933888/image/5292920040062976",
+        "details": "C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter,."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Fundamental of Data Structure",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KBLbzVhnZz_i3EFmbM1rLIoydeFxMq7ATQ&usqp=CAU",
+        "details": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Fundamental of Digital Logic",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://www.digitallogic.co/wp-content/uploads/2021/03/social-share-img-02.jpg",
+        "details": "Digital electronic circuits operate with voltages of two logic levelsnamely Logic Low and Logic High. The range of voltages corresponding to Logic Low is represented with 0. Similarly, the range of voltages corresponding to Logic High is represented with 1."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Fundamental of Data Communication",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlY0tWG09pbIRRTC_oiiBucAxS8SQ7eEqmCw&usqp=CAU",
+        "details": " Data transmission and data reception or, more broadly, data communication or digital communications is the transfer and reception of data in the form of a digital bitstream or a digitized analog signal[1] over a point-to-point or point-to-multipoint communication channel. Examples of such channels are copper wires, optical fibers, wireless communication using radio spectrum, storage media and computer buses. The data are represented as an electromagnetic signal, such as an electrical voltage, radiowave, microwave, or infrared signal.."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "enroll": 488,
+        "title": "Basic to Advance of Software Engineering",
+        "instructor": {
+            "name": "Mr. Jhon",
+            "duration": "3 months",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkwaKb9Xzlfw6mj6yJAwiSXlxNXmxUGj4jQ&usqp=CAU"
+        },
+        "image_url": "https://www.boardinfinity.com/blog/content/images/2022/03/how-to-become-a-software-engineer.png",
+        "details": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users."
+    }
+]
