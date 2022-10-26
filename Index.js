@@ -44,3 +44,5 @@ app.get('/courses/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Tech-Learn site is running on Port', port)
 })
+
+module.exports = app;
