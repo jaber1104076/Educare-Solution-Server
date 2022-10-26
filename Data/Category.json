@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Besic C Pogramming"
+    },
+    {
+        "id": "02",
+        "name": "Besic C++ Pogramming"
+    },
+    {
+        "id": "03",
+        "name": "Data Structure"
+    },
+    {
+        "id": "04",
+        "name": "Digital Logic Design"
+    },
+    {
+        "id": "05",
+        "name": "Data Communication"
+    },
+    {
+        "id": "06",
+        "name": "Softwar Engineering"
+    }
+]
