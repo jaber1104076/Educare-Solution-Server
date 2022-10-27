@@ -44,5 +44,3 @@ app.get('/courses/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Educare Solution site is running on Port', port)
 })
-
-module.exports = app;
