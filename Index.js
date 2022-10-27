@@ -10,7 +10,7 @@ const courses = require('./data/Courses.json');
 // console.log(categories)
 
 app.get('/', (req, res) => {
-    res.send('Tech-Learn API running');
+    res.send('Educare Solution API running');
 });
 
 
@@ -42,7 +42,7 @@ app.get('/courses/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Tech-Learn site is running on Port', port)
+    console.log('Educare Solution site is running on Port', port)
 })
 
 module.exports = app;
